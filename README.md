@@ -15,11 +15,10 @@ Meeting Agenda and Minutes are available for each challenges. See also in this r
 * Meeting times: M/W/F at 7 pm EST 
 4. Spring 2021
 *  Meeting minutes/notes: https://docs.google.com/document/d/1hwRJBMMjrff4hvw_MMrK1td-PSwHCVVsJ-jbj1Y3KEE/edit
-*  Meeting times: Tuesdays at 12:30 pm EST and Thursdays at 11:30 am EST
+*  Meeting times: Tuesdays at 12:30 pm EST and Thursdays at 11:30 am EST [link to MS teams should be added]
 
 **Additional Resources**:
-Google Drive Folders: 
-Github Project: https://github.com/ossf/gb-planning-committee
+Google Drive Folders: [to be completed]
 
 **wiki**
 Visit the project [wiki](https://github.com/ironhacks/ironhacks-org/wiki)
