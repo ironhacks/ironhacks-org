@@ -15,7 +15,7 @@ Meeting Agenda and Minutes are available for each challenges. See also in this r
 * Meeting times: M/W/F at 7 pm EST 
 4. Spring 2021
 *  Meeting minutes/notes: https://docs.google.com/document/d/1hwRJBMMjrff4hvw_MMrK1td-PSwHCVVsJ-jbj1Y3KEE/edit
-*  Meeting times: Tuesdays at 12:30 pm EST and Thursdays at 11:30 am EST [link to MS teams should be added]
+*  Meeting times: Tuesdays at 12:30 pm EST via [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjA4ODcwMjYtODUwMi00NzBkLWJjZjMtYjdiMmIyNDE4N2Jh%40thread.v2/0?context=%7b%22Tid%22%3a%224130bd39-7c53-419c-b1e5-8758d6d63f21%22%2c%22Oid%22%3a%22340e6ad0-ef52-4a82-8230-271ab4e3c722%22%7d) and Thursdays at 11:30 am EST [link to MS teams should be added]
 
 **Additional Resources**:
 Google Drive Folders: [to be completed]
